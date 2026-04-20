@@ -3,7 +3,7 @@
 🔗 [Clique aqui para acessar o Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZjM4YmQ1MGItMzk3ZC00NTI4LWJmYzUtZWMxMzg0M2YyNWZlIiwidCI6IjRkYjZhNmNiLTY2MzUtNDBkNC1hNTAyLTg4MmUxODhiMzY5MiJ9)
 
 ### Sobre o Projeto
-Este projeto foi desenvolvido durante a formação gratuita da Xperiun, com o objetivo de analisar o desempenho comercial de uma empresa fictícia. O foco foi transformar dados brutos em insights estratégicos para tomada de decisão gerencial.
+Este projeto foi desenvolvido durante a formação da Xperiun, com o objetivo de analisar o desempenho comercial de uma empresa fictícia. O foco foi transformar dados brutos em insights estratégicos para tomada de decisão gerencial.
 
 ### Tecnologias e Ferramentas
 * Power BI: Construção do dashboard e visualização de dados.
